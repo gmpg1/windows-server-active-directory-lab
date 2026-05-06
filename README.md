@@ -54,7 +54,7 @@ DNS Forward Lookup Zone (corp.local) Verification
 ![DNS](images/DNS.png)
 
 DHCP Scope Configuration (192.168.10.100–200)
-![DHCP](images/DHCP scope.png)
+![DHCP](images/DHCP-scope.png)
 
 
 
